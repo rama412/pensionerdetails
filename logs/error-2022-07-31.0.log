@@ -1,0 +1,3 @@
+2022-07-31_21-42-19 [http-nio-8200-exec-1] ERROR c.p.p.d.e.GlobalExceptionHandler - Missing request header 'Authorization' for method parameter of type String
+2022-07-31_21-42-19 [http-nio-8200-exec-3] ERROR c.p.p.d.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-07-31_21-42-19 [http-nio-8200-exec-3] ERROR c.p.p.d.e.GlobalExceptionHandler - [500] during [POST] to [http://localhost:8400/auth/api/v1/authorize] [AuthorisingClient#authorizeTheRequest(String)]: [{"timestamp":"2022-07-31T16:15:28.013+00:00","status":500,"error":"Internal Server Error","trace":"io.jsonwebtoken.MalformedJwtException: Unable to read JSON value: '\u000BS�G��쉅����!L��ȉ\r\n\tat io.j... (7693 bytes)]

@@ -1,0 +1,15 @@
+2022-08-02_16-41-49 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8200 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8200 or configure this application to listen on another port.
+
+2022-08-02_16-28-46 [http-nio-8200-exec-4] ERROR c.p.p.d.e.GlobalExceptionHandler - Not allowed
