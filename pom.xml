@@ -126,6 +126,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>pensionerDetail-microservice</finalName>
 	</build>
 
 </project>
