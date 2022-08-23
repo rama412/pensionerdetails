@@ -11,7 +11,7 @@
 	<groupId>com.cts.pensioner.detail</groupId>
 	<artifactId>PensionerDetail-Microservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>PensionerDetailMicroservice</name>
 	<description>PensionerDetailMicroservice</description>
 	<properties>
