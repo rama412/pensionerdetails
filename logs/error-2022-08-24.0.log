@@ -1,0 +1,5 @@
+2022-08-24_06-30-36 [http-nio-8200-exec-10] ERROR c.p.p.d.e.GlobalExceptionHandler - Not allowed
+2022-08-24_07-11-19 [http-nio-8200-exec-1] ERROR c.p.p.d.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-08-24_07-11-19 [http-nio-8200-exec-1] ERROR c.p.p.d.e.GlobalExceptionHandler - Connection refused: no further information executing POST http://localhost:8400/auth/api/v1/authorize
+2022-08-24_07-11-19 [http-nio-8200-exec-2] ERROR c.p.p.d.e.GlobalExceptionHandler - handles by handleFeignStatusException
+2022-08-24_07-11-19 [http-nio-8200-exec-2] ERROR c.p.p.d.e.GlobalExceptionHandler - Connection refused: no further information executing POST http://localhost:8400/auth/api/v1/authorize
